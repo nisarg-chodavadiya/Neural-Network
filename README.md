@@ -1,2 +1,2 @@
 # Neural Network Garden
-Neural Networks on benchmark datasets or builting datasets in pacakages, dataset which are frequently used my most people.
+Neural Networks on benchmark datasets or builtin datasets in pacakages, dataset which are frequently used my most people.
